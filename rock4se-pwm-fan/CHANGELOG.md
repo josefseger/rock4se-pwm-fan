@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.3
+
+- Restored the complete `run.sh` from the working 1.1.1 installation.
+- Fixed `exec /run.sh: exec format error`.
+- Launches the startup script explicitly through `/bin/sh`.
+- Normalizes accidental CRLF line endings during the Docker build.
+
 ## 1.1.2
 
 - First public GitHub release.
