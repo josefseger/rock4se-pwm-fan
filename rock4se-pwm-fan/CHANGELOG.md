@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.4
+
+- Fixed the documentation reference on the app information page.
+- Replaced the unsupported relative `DOCS.md` link with instructions to use
+  the built-in Documentation tab.
+
 ## 1.1.3
 
 - Restored the complete `run.sh` from the working 1.1.1 installation.

@@ -3,4 +3,5 @@
 Home Assistant app for temperature-controlled PWM fan operation on the Radxa
 ROCK 4 SE.
 
-See [DOCS.md](DOCS.md) for configuration and hardware information.
+Open the **Documentation** tab above, or read the documentation on
+[GitHub](https://github.com/josefseger/rock4se-pwm-fan/blob/main/rock4se-pwm-fan/DOCS.md).
