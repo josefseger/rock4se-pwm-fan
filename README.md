@@ -24,8 +24,8 @@ controller for the Radxa ROCK 4 SE.
 
 ## Binary status
 
-Version 1.1.2 contains the recovered and verified AArch64 executable from the
-working version 1.1.1 installation.
+The current release contains the recovered and verified AArch64 executable
+from the working version 1.1.1 installation.
 
 Binary SHA-256:
 
