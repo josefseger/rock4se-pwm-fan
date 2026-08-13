@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.5
+
+- Added branded Home Assistant `icon.png` in the same tropical ROCK 4 SE visual style as the Ethernet LED Fix app.
+- Added branded Home Assistant `logo.png` for the app information and store views.
+- No fan-control logic or hardware behavior changed.
+
 ## 1.1.4
 
 - Fixed the documentation reference on the app information page.

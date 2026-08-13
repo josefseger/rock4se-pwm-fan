@@ -1,5 +1,5 @@
 name: ROCK 4SE PWM Fan
-version: "1.1.4"
+version: "1.1.5"
 slug: rock4se_pwm_fan
 description: Temperature-controlled PWM fan for Radxa ROCK 4SE using RK3399 PWM registers
 url: https://github.com/josefseger/rock4se-pwm-fan
